@@ -1,0 +1,2 @@
+Although different projects tried porting vpnc to Android, there is no user-friendly vpn client for Android. This projects first goal is to create a user-friendly, easy-to-use vpn client for Android.
+To realize this, vpnc will completely ported to Android`s Java.
